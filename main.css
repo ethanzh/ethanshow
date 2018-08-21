@@ -1,0 +1,26 @@
+BODY {
+   background: rgb(232, 232, 232);
+   color: rgb(25%, 25%, 25%)
+}
+
+H1 {
+  color: rgb( 100%, 50%, 50% ); 
+  text-align: center; 
+}
+
+A:hover {
+  color : red;
+  text-decoration : underline;
+}
+
+A:active {
+  text-decoration : underline;
+}
+
+A:link {
+  text-decoration : underline;
+}
+
+A:visited {
+  text-decoration : underline;
+}

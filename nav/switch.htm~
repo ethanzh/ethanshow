@@ -1,0 +1,67 @@
+<HTML>
+<HEAD>
+<TITLE>
+Main Switch
+</TITLE>
+<link rel=stylesheet type="text/css" href="../main.css"></link>
+<base target="lbar">
+</HEAD>
+
+<BODY>
+
+<center>
+<b><font size=-1>ETHAN show</font></b>
+
+<table border="0" cellspacing="0" cellpadding="0">
+
+<tr>
+<td align="center"><b><font size=-1><a href="body.htm" target="body">Home</a>&nbsp;&nbsp;</font></b></td>
+<td align="center"><b><font size=-2><a href="feats.htm" target="lbar">Early days</a></font></b></td>
+</tr>
+
+ <!-- begin "static" year links -->
+
+ <tr>
+   <td align="center" colspan=2>
+	 <b>
+	   <a href="months99.htm">'99</a>&nbsp;
+	   <a href="months00.htm">'00</a>&nbsp;
+	   <a href="months01.htm">'01</a>
+     </b>
+   </td>
+ </tr>
+ <tr>
+   <td align="center" colspan=2>
+	 <b>
+	   <a href="months02.htm">'02</a>&nbsp;
+	   <a href="months03.htm">'03</a>&nbsp;
+	   <a href="months04.htm">'04</a>&nbsp;
+	   <a href="months05.htm">'05</a>
+     </b>
+   </td>
+ </tr>
+
+ <!-- end   "static" year links -->
+
+ <!--
+<tr>
+<td align="center" colspan="5">
+<a href="feats.htm">Features</a>
+<a href="feats.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Features','','../images/features_on.jpg',1)"><img name="Features" border="0" src="../images/features.jpg" alt="Features"></a>
+<a href="http://www.cafepress.com/ethanshow" target="blank_"><img border="0" src="../images/cart.gif"></a>
+
+</td>
+</tr>
+  feature button moved up -->
+
+</table>
+
+<!--
+<a href="../misc/stats.htm">Statistics</a>
+-->
+
+
+</center>
+
+</BODY>
+</HTML>

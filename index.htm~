@@ -1,0 +1,22 @@
+<html>
+<head>
+  <title>The Ethan Show</title>
+  <META NAME="description" CONTENT="The life of Ethan Zedler Houston on the web.">
+  <META NAME="keywords" CONTENT="Ethan Show Houston ethanshow.com">
+  <META NAME="author" CONTENT="Chad Houston">
+  <link rel=stylesheet type="text/css" href="./main.css"></link>
+</head>
+<frameset border=0 cols="135,*">
+  <frame src="nav/lbar.htm" name="left" frameborder=no scrolling=no>
+  <frame src="nav/body.htm" name="body" frameborder=no>
+</frameset>
+
+<noframes>
+<body>
+Your browser does not support frames.<br>
+Click on <a href="days.htm">list of days</a> to start.
+</body>
+</noframes>
+
+</html>
+

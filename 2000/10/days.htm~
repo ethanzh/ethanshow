@@ -1,0 +1,30 @@
+<HTML>
+<HEAD>
+<TITLE>
+Ethan
+</TITLE>
+<link rel=stylesheet type="text/css" href="../../main.css"></link>
+<base target="current">
+</HEAD>
+<body>
+
+<table>
+<tr>
+<td align=center>October</td>
+<td><center><a href="oct01.htm">1</a>&nbsp;
+<td><center><a href="oct08.htm">8</a>&nbsp;
+<td><center><a href="oct10.htm">10</a>&nbsp;
+<td><center><a href="oct12.htm">12</a>&nbsp;
+<td><center><a href="oct13.htm">13</a>&nbsp;
+<td><center><a href="oct16.htm">16</a>&nbsp;
+<td><center><a href="oct17.htm">17</a>&nbsp;
+<td><center><a href="oct19.htm">19</a>&nbsp;
+<td><center><a href="oct21.htm">21</a>&nbsp;
+</tr>
+<tr>
+<td align=center>2000&nbsp;</td>
+</tr>
+</table>
+
+</BODY>
+</HTML>

@@ -1,0 +1,13 @@
+cp 100.jpg 100t.jpg
+cp 101.jpg 101t.jpg
+cp 105.jpg 105t.jpg
+cp 123.jpg 123t.jpg
+cp 128.jpg 128t.jpg
+cp 131.jpg 131t.jpg
+cp 133.jpg 133t.jpg
+cp 135.jpg 135t.jpg
+cp 136.jpg 136t.jpg
+cp 139.jpg 139t.jpg
+cp 140.jpg 140t.jpg
+cp 147.jpg 147t.jpg
+cp 149.jpg 149t.jpg

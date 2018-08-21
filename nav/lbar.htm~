@@ -1,0 +1,21 @@
+<html>
+<head>
+	<title>
+	The Ethan Show
+	</title>
+	<link rel=stylesheet type="text/css" href="./main.css"></link>
+</head>
+<frameset border=0 rows="110,*">
+  <frame src="switch.htm" name="switch" frameborder=no scrolling=no>
+  <frame src="months04.htm" name="lbar" frameborder=no>
+</frameset>
+
+<noframes>
+<body>
+Your browser does not support frames.<br>
+Click on <a href="days.htm">list of days</a> to start.
+</body>
+</noframes>
+
+</html>
+
